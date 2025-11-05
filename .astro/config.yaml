@@ -1,0 +1,5 @@
+project:
+  name: germany-portfolio
+runtime:
+  image:
+    tag: 10.5.0
